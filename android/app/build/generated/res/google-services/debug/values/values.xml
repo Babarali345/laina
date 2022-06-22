@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">191289410764-d3q93cpbom2c51kuf8quusf2gkllhqrf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">191289410764</string>
+    <string name="google_api_key" translatable="false">AIzaSyDT7THq3uPAdRUhFwWUtlmj91WF90DA6Ek</string>
+    <string name="google_app_id" translatable="false">1:191289410764:android:037176620458fa51bd2e69</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDT7THq3uPAdRUhFwWUtlmj91WF90DA6Ek</string>
+    <string name="google_storage_bucket" translatable="false">laina-vtms-reactapp.appspot.com</string>
+    <string name="project_id" translatable="false">laina-vtms-reactapp</string>
+</resources>

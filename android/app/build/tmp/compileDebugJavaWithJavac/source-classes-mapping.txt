@@ -1,0 +1,14 @@
+com/laina/MainActivity.java
+ com.lainaent.lainavtms.MainActivity
+com/laina/MainApplication.java
+ com.lainaent.lainavtms.MainApplication
+ com.lainaent.lainavtms.MainApplication$1
+com/laina/ReactNativeFlipper.java
+ com.lainaent.lainavtms.ReactNativeFlipper
+ com.lainaent.lainavtms.ReactNativeFlipper$1
+ com.lainaent.lainavtms.ReactNativeFlipper$2
+ com.lainaent.lainavtms.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/lainaent/lainavtms/BuildConfig.java
+ com.lainaent.lainavtms.BuildConfig
